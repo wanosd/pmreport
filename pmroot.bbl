@@ -16,6 +16,62 @@
   {}
 \endgroup
 
+\entry{fowler}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fowler}{F.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FM1}
+  \strng{fullhash}{FM1}
+  \field{labelyear}{2006}
+  \field{sortinit}{F}
+  \field{title}{Code Smell}
+  \verb{url}
+  \verb http://martinfowler.com/bliki/CodeSmell.html
+  \endverb
+  \field{month}{02}
+  \field{year}{2006}
+\endentry
+
+\entry{iso}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {ISO}{I.}%
+     {ISO}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{II1}
+  \strng{fullhash}{II1}
+  \field{labelyear}{2011}
+  \field{sortinit}{I}
+  \field{title}{IEC 25010: 2011: Systems and software engineering--Systems and
+  software Quality Requirements and Evaluation (SQuaRE)--System and software
+  quality models}
+  \field{journaltitle}{International Organization for Standardization}
+  \field{year}{2011}
+\endentry
+
+\entry{pmbok}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {PMBoK}{P.}%
+     {A}{A}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PA1}
+  \strng{fullhash}{PA1}
+  \field{labelyear}{2000}
+  \field{sortinit}{P}
+  \field{title}{Guide to the project Management body of knowledge}
+  \field{journaltitle}{Project Management Institute, Pennsylvania USA}
+  \field{year}{2000}
+\endentry
+
 \lossort
 \endlossort
 
