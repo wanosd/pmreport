@@ -66,22 +66,22 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.4}Quality Standards}{14}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Project Risk Management}{16}{chapter.7}
+\contentsline {chapter}{\numberline {7}Project Risk Management}{17}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Processes}{16}{section.7.1}
+\contentsline {section}{\numberline {7.1}Processes}{17}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Techniques}{17}{section.7.2}
+\contentsline {section}{\numberline {7.2}Techniques}{18}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Risk Management Plans}{17}{section.7.3}
+\contentsline {section}{\numberline {7.3}Risk Management Plans}{18}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Project Human Resource Management}{18}{chapter.8}
+\contentsline {chapter}{\numberline {8}Project Human Resource Management}{19}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Roles}{18}{section.8.1}
+\contentsline {section}{\numberline {8.1}Roles}{19}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Responsibility}{18}{section.8.2}
+\contentsline {section}{\numberline {8.2}Responsibility}{19}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Authority}{18}{section.8.3}
+\contentsline {section}{\numberline {8.3}Authority}{19}{section.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Identify Competencies}{18}{section.8.4}
+\contentsline {section}{\numberline {8.4}Identify Competencies}{19}{section.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.5}Organisation and Planning}{18}{section.8.5}
+\contentsline {section}{\numberline {8.5}Organisation and Planning}{19}{section.8.5}
