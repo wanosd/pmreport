@@ -16,6 +16,66 @@
   {}
 \endgroup
 
+\entry{brooks}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Brooks~Jr}{B.~J.}%
+     {Frederick~P.}{F.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BJFP1}
+  \strng{fullhash}{BJFP1}
+  \field{labelyear}{1956}
+  \field{sortinit}{B}
+  \field{title}{NO SILVER BULLET - ESSENCE AND ACCIDENTS OF SOFTWARE
+  ENCINEERING}
+  \field{year}{1956}
+\endentry
+
+\entry{req}{inproceedings}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Davis}{D.}%
+     {Alan}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dieste}{D.}%
+     {Oscar}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hickey}{H.}%
+     {Ann}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Juristo}{J.}%
+     {Natalia}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moreno}{M.}%
+     {Ana~Mar{\'\i}a}{A.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{DA+1}
+  \strng{fullhash}{DADOHAJNMAM1}
+  \field{labelyear}{2006}
+  \field{sortinit}{D}
+  \field{booktitle}{Requirements Engineering, 14th IEEE International
+  Conference}
+  \field{pages}{179\bibrangedash 188}
+  \field{title}{Effectiveness of requirements elicitation techniques: Empirical
+  results derived from a systematic review}
+  \field{year}{2006}
+\endentry
+
 \entry{fowler}{online}{}
   \name{author}{1}{}{%
     {{}%
@@ -34,6 +94,40 @@
   \endverb
   \field{month}{02}
   \field{year}{2006}
+\endentry
+
+\entry{hr}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Huemann}{H.}%
+     {Martina}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Keegan}{K.}%
+     {Anne}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Turner}{T.}%
+     {J~Rodney}{J.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier}%
+  }
+  \strng{namehash}{HMKATJR1}
+  \strng{fullhash}{HMKATJR1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{number}{3}
+  \field{pages}{315\bibrangedash 323}
+  \field{title}{Human resource management in the project-oriented company: A
+  review}
+  \field{volume}{25}
+  \field{journaltitle}{International Journal of Project Management}
+  \field{year}{2007}
 \endentry
 
 \entry{iso}{article}{}
