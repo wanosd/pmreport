@@ -32,11 +32,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.4}Create WBS}{19}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Validate Scope}{20}{section.3.5}
+\contentsline {section}{\numberline {3.5}Validate Scope}{21}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}Outputs}{20}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.1}Outputs}{21}{subsection.3.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Accepted Deliverables}{20}{section*.9}
+\contentsline {subsubsection}{Accepted Deliverables}{21}{section*.10}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.6}Control Scope}{21}{section.3.6}
 \defcounter {refsection}{0}\relax 
@@ -76,9 +76,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.3.1}Tools and Techniques}{31}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Techniques}{31}{section*.13}
+\contentsline {subsubsection}{Techniques}{31}{section*.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Tool - Infusion}{32}{section*.15}
+\contentsline {subsubsection}{Tool - Infusion}{32}{section*.16}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.4}Quality Standards}{33}{section.6.4}
 \defcounter {refsection}{0}\relax 
@@ -103,3 +103,7 @@
 \contentsline {section}{\numberline {8.3}Identify Competencies}{40}{section.8.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {8.4}Organisation and Planning}{41}{section.8.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Appendices}{43}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Microsoft Project Images}{43}{section.A.1}
