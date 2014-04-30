@@ -96,6 +96,34 @@
   \field{year}{2006}
 \endentry
 
+\entry{gsd}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Herbsleb}{H.}%
+     {James~D}{J.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moitra}{M.}%
+     {Deependra}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{HJDMD1}
+  \strng{fullhash}{HJDMD1}
+  \field{labelyear}{2001}
+  \field{sortinit}{H}
+  \field{number}{2}
+  \field{pages}{16\bibrangedash 20}
+  \field{title}{Global software development}
+  \field{volume}{18}
+  \field{journaltitle}{Software, IEEE}
+  \field{year}{2001}
+\endentry
+
 \entry{hr}{article}{}
   \name{author}{3}{}{%
     {{}%
@@ -159,11 +187,11 @@
   }
   \strng{namehash}{PA1}
   \strng{fullhash}{PA1}
-  \field{labelyear}{2000}
+  \field{labelyear}{2013}
   \field{sortinit}{P}
   \field{title}{Guide to the project Management body of knowledge}
   \field{journaltitle}{Project Management Institute, Pennsylvania USA}
-  \field{year}{2000}
+  \field{year}{2013}
 \endentry
 
 \lossort
