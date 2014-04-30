@@ -16,34 +16,40 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Critical Path\relax }}{24}{figure.caption.11}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Gantt Chart \relax }}{24}{figure.caption.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Critical Path\relax }}{25}{figure.caption.12}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces EVM\relax }}{28}{figure.caption.12}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces COCOMO Early Design\relax }}{27}{figure.caption.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces COCOMO Post Architecture \relax }}{28}{figure.caption.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces EVM\relax }}{29}{figure.caption.15}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Sample of methods to ensure quality\relax }}{31}{figure.caption.13}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Sample of methods to ensure quality\relax }}{32}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Quality Diagramming Options\relax }}{32}{figure.caption.15}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Quality Diagramming Options\relax }}{33}{figure.caption.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Example of Class 'Bad Code Smell' Breakdown using Infusion\relax }}{33}{figure.caption.17}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Example of Class 'Bad Code Smell' Breakdown using Infusion\relax }}{34}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Quality Measurement using Infusion\relax }}{33}{figure.caption.18}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Quality Measurement using Infusion\relax }}{34}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Quality Areas Defined by ISO 25010\relax }}{35}{figure.caption.19}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Risk Management Processes\relax }}{37}{figure.caption.20}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Agena Risk Model\relax }}{38}{figure.caption.21}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Quality Areas Defined by ISO 25010\relax }}{36}{figure.caption.22}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Risk Management Processes\relax }}{38}{figure.caption.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Agena Risk Model\relax }}{39}{figure.caption.24}
+\defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Work Breakdown Structure Task List\relax }}{43}{figure.caption.23}
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Gantt Chart \relax }}{44}{figure.caption.24}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Work Breakdown Structure Task List\relax }}{44}{figure.caption.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Gantt Chart \relax }}{45}{figure.caption.27}
