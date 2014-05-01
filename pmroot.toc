@@ -2,108 +2,108 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Project Integration}{6}{chapter.2}
+\contentsline {chapter}{\numberline {2}Project Integration}{7}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Develop Project Charter}{6}{section.2.1}
+\contentsline {section}{\numberline {2.1}Develop Project Charter}{7}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Develop Project Management Plan}{8}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}Develop Project Management Plan}{9}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Directing and Managing Project Work}{8}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.2}Directing and Managing Project Work}{9}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Monitoring and Controlling Project Work}{9}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.3}Monitoring and Controlling Project Work}{10}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.4}Integrated Change Control}{9}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.4}Integrated Change Control}{10}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.5}Close}{10}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.5}Close}{11}{subsection.2.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Project Scope Management}{11}{chapter.3}
+\contentsline {chapter}{\numberline {3}Project Scope Management}{12}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Plan Scope Management}{11}{section.3.1}
+\contentsline {section}{\numberline {3.1}Plan Scope Management}{12}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Collect Requirements}{12}{section.3.2}
+\contentsline {section}{\numberline {3.2}Collect Requirements}{13}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Scope Definition}{16}{section.3.3}
+\contentsline {section}{\numberline {3.3}Scope Definition}{17}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Included in Scope}{17}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.1}Included in Scope}{18}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Excluded from Scope}{19}{section*.6}
+\contentsline {subsubsection}{Excluded from Scope}{20}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Constraints}{19}{section*.7}
+\contentsline {subsubsection}{Constraints}{20}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Create WBS}{19}{section.3.4}
+\contentsline {section}{\numberline {3.4}Create WBS}{20}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Validate Scope}{21}{section.3.5}
+\contentsline {section}{\numberline {3.5}Validate Scope}{22}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}Outputs}{21}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.1}Outputs}{22}{subsection.3.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Accepted Deliverables}{21}{section*.10}
+\contentsline {subsubsection}{Accepted Deliverables}{22}{section*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Control Scope}{21}{section.3.6}
+\contentsline {section}{\numberline {3.6}Control Scope}{22}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Project Time Management}{22}{chapter.4}
+\contentsline {chapter}{\numberline {4}Project Time Management}{23}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Processes}{22}{section.4.1}
+\contentsline {section}{\numberline {4.1}Processes}{23}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Plan Schedule Management and Define Activities}{23}{section.4.2}
+\contentsline {section}{\numberline {4.2}Plan Schedule Management and Define Activities}{24}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Sequence Activities}{23}{section.4.3}
+\contentsline {section}{\numberline {4.3}Sequence Activities}{24}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Estimate Activities}{24}{section.4.4}
+\contentsline {section}{\numberline {4.4}Estimate Activities}{25}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Develop and Control Schedule}{25}{section.4.5}
+\contentsline {section}{\numberline {4.5}Develop and Control Schedule}{26}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Project Cost Management}{26}{chapter.5}
+\contentsline {chapter}{\numberline {5}Project Cost Management}{27}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Planning Cost Management}{26}{section.5.1}
+\contentsline {section}{\numberline {5.1}Planning Cost Management}{27}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Budgeting}{27}{section.5.2}
+\contentsline {section}{\numberline {5.2}Budgeting}{28}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Realistic Targets}{32}{section.5.3}
+\contentsline {section}{\numberline {5.3}Realistic Targets}{33}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Cost Control}{33}{section.5.4}
+\contentsline {section}{\numberline {5.4}Cost Control}{34}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Project Quality Management}{34}{chapter.6}
+\contentsline {chapter}{\numberline {6}Project Quality Management}{35}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Quality Process}{34}{section.6.1}
+\contentsline {section}{\numberline {6.1}Quality Process}{35}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.1}Quality Management}{34}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.1}Quality Management}{35}{subsection.6.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.2}Quality Assurance}{35}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.2}Quality Assurance}{36}{subsection.6.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Quality Control}{36}{section.6.2}
+\contentsline {section}{\numberline {6.2}Quality Control}{37}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Quality Support}{36}{section.6.3}
+\contentsline {section}{\numberline {6.3}Quality Support}{37}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}Tools and Techniques}{36}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.1}Tools and Techniques}{37}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Techniques}{36}{section*.18}
+\contentsline {subsubsection}{Techniques}{37}{section*.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Tool - Infusion}{37}{section*.19}
+\contentsline {subsubsection}{Tool - Infusion}{38}{section*.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Quality Standards}{38}{section.6.4}
+\contentsline {section}{\numberline {6.4}Quality Standards}{39}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Project Risk Management}{41}{chapter.7}
+\contentsline {chapter}{\numberline {7}Project Risk Management}{42}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Processes}{41}{section.7.1}
+\contentsline {section}{\numberline {7.1}Processes}{42}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Techniques}{42}{section.7.2}
+\contentsline {section}{\numberline {7.2}Techniques}{43}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Risk Management Plans}{42}{section.7.3}
+\contentsline {section}{\numberline {7.3}Risk Management Plans}{43}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Project Human Resource Management}{44}{chapter.8}
+\contentsline {chapter}{\numberline {8}Project Human Resource Management}{45}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Plan Human Resource Management}{44}{section.8.1}
+\contentsline {section}{\numberline {8.1}Plan Human Resource Management}{45}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.1}Roles}{44}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.1}Roles}{45}{subsection.8.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.2}Relationships}{45}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.2}Relationships}{46}{subsection.8.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Authority and Organisation}{45}{section.8.2}
+\contentsline {section}{\numberline {8.2}Authority and Organisation}{46}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Identify Competencies}{45}{section.8.3}
+\contentsline {section}{\numberline {8.3}Identify Competencies}{46}{section.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Organisation and Planning}{46}{section.8.4}
+\contentsline {section}{\numberline {8.4}Organisation and Planning}{47}{section.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Appendices}{48}{appendix.A}
+\contentsline {chapter}{\numberline {A}Appendices}{49}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Microsoft Project Images}{48}{section.A.1}
+\contentsline {section}{\numberline {A.1}Microsoft Project Images}{49}{section.A.1}
