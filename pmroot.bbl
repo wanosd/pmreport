@@ -33,6 +33,17 @@
   \field{year}{1956}
 \endentry
 
+\entry{coco}{online}{}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{title}{COCOMO® II Cost Driver and Scale Driver Help}
+  \verb{url}
+  \verb http://sunset.usc.edu/research/COCOMOII/expert_cocomo/drivers.html
+  \endverb
+  \field{month}{02}
+  \field{year}{1998}
+\endentry
+
 \entry{req}{inproceedings}{}
   \name{author}{5}{}{%
     {{}%

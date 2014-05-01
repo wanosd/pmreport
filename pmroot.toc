@@ -58,52 +58,52 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}Budgeting}{27}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Realistic Targets}{28}{section.5.3}
+\contentsline {section}{\numberline {5.3}Realistic Targets}{32}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Cost Control}{29}{section.5.4}
+\contentsline {section}{\numberline {5.4}Cost Control}{33}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Project Quality Management}{30}{chapter.6}
+\contentsline {chapter}{\numberline {6}Project Quality Management}{34}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Quality Process}{30}{section.6.1}
+\contentsline {section}{\numberline {6.1}Quality Process}{34}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.1}Quality Management}{30}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.1}Quality Management}{34}{subsection.6.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.2}Quality Assurance}{31}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.2}Quality Assurance}{35}{subsection.6.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Quality Control}{32}{section.6.2}
+\contentsline {section}{\numberline {6.2}Quality Control}{36}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Quality Support}{32}{section.6.3}
+\contentsline {section}{\numberline {6.3}Quality Support}{36}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}Tools and Techniques}{32}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.1}Tools and Techniques}{36}{subsection.6.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Techniques}{32}{section*.17}
+\contentsline {subsubsection}{Techniques}{36}{section*.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Tool - Infusion}{33}{section*.18}
+\contentsline {subsubsection}{Tool - Infusion}{37}{section*.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Quality Standards}{34}{section.6.4}
+\contentsline {section}{\numberline {6.4}Quality Standards}{38}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Project Risk Management}{37}{chapter.7}
+\contentsline {chapter}{\numberline {7}Project Risk Management}{41}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Processes}{37}{section.7.1}
+\contentsline {section}{\numberline {7.1}Processes}{41}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Techniques}{38}{section.7.2}
+\contentsline {section}{\numberline {7.2}Techniques}{42}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Risk Management Plans}{38}{section.7.3}
+\contentsline {section}{\numberline {7.3}Risk Management Plans}{42}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Project Human Resource Management}{40}{chapter.8}
+\contentsline {chapter}{\numberline {8}Project Human Resource Management}{44}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Plan Human Resource Management}{40}{section.8.1}
+\contentsline {section}{\numberline {8.1}Plan Human Resource Management}{44}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.1}Roles}{40}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.1}Roles}{44}{subsection.8.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {8.1.2}Relationships}{41}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.2}Relationships}{45}{subsection.8.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Authority and Organisation}{41}{section.8.2}
+\contentsline {section}{\numberline {8.2}Authority and Organisation}{45}{section.8.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Identify Competencies}{41}{section.8.3}
+\contentsline {section}{\numberline {8.3}Identify Competencies}{45}{section.8.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.4}Organisation and Planning}{42}{section.8.4}
+\contentsline {section}{\numberline {8.4}Organisation and Planning}{46}{section.8.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Appendices}{44}{appendix.A}
+\contentsline {chapter}{\numberline {A}Appendices}{48}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Microsoft Project Images}{44}{section.A.1}
+\contentsline {section}{\numberline {A.1}Microsoft Project Images}{48}{section.A.1}
